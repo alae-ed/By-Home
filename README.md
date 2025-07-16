@@ -25,31 +25,31 @@ Il s'agit d'une **plateforme web** destinée à connecter des **cuisiniers à do
 
  Fonctionnalités principales
 
-- 🧑‍🍳 Inscription des cuisiniers et ajout de plats
-- 🛒 Commande des plats par les clients
-- 📊 Tableau de bord pour les cuisiniers
-- 🔍 Recherche et filtres (ville, catégorie...)
-- 🌐 Interface multilingue (FR / AR)
-- 🔔 Système de notifications
-- 💬 Espace d’avis et évaluations
+-  Inscription des cuisiniers et ajout de plats
+-  Commande des plats par les clients
+-  Tableau de bord pour les cuisiniers
+-  Recherche et filtres (ville, catégorie...)
+-  Interface multilingue (FR / AR)
+-  Système de notifications
+-  Espace d’avis et évaluations
 
 ---
 
-## 📌 À propos
+ À propos
 
 Ce projet m’a permis de mettre en pratique mes compétences techniques et d’explorer le développement d’une application web complète de type marketplace.  
 Je suis ouvert aux retours, suggestions et opportunités de collaboration ! 🤝
 
 ---
 
-## 🔗 Liens utiles
+ Liens utiles
 
 - [Voir le code source](https://github.com/alae-ed/By-Home)
 - [Mon profil LinkedIn](www.linkedin.com/in/ali-eddnoub-1b2631375)
 
 ---
 
-## 🧑 Réalisé par
+ Réalisé par
 
 **Ali Eddnoub**  
 Étudiant en Développement Informatique – IBEM  
